@@ -7,7 +7,6 @@ while True:
     print("5. Exit")
 
     choice = input("Enter your choice (1-5): ")
-
     if choice == '5':
         print("Calculator closed.")
         break 
