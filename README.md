@@ -1,4 +1,11 @@
+# Python Projects
+
 ## Projects
 
-- Calculator  
-  👉 [Open Calculator](calculator/)
+- 🧮 Calculator  
+  👉 [Open Calculator](# Python Projects
+
+## Projects
+
+- 🧮 Calculator  
+  👉 [Open Calculator](https://github.com/YourName/Python-projects/tree/main/calculator)
