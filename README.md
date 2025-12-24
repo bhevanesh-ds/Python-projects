@@ -13,11 +13,8 @@ This repo is my collection of beginner projects, experiments, and everything I'm
 
 - 🧮 **Calculator**
   - Basic calculator using Python
-  - 👉 [Open calculator Project](calculator/)
+  - 👉 [Open calculator Project](calculator)
 
-| Guess the Number     | Fun guessing game                    | [guess_game.py](guess_game.py) |
-| Rock Paper Scissors  | Play against computer                | [rps.py](rps.py)       |
-| To-Do List           | Add/view/remove tasks                | [todo.py](todo.py)     |
 
 ## 🛠️ Currently Learning
 - Python basics & control flow
