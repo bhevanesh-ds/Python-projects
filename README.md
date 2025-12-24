@@ -12,7 +12,7 @@ This repo is my collection of beginner projects, experiments, and everything I'm
 
 | Project              | Description                          | File/Link              |
 |----------------------|--------------------------------------|------------------------|
-| Simple Calculator    | Basic operations (+ - × ÷)            | [calculator.py](calculator.py) |
+| Simple Calculator    | Basic operations (+ - × ÷)            | [calculator.py](calculator) |
 | Guess the Number     | Fun guessing game                    | [guess_game.py](guess_game.py) |
 | Rock Paper Scissors  | Play against computer                | [rps.py](rps.py)       |
 | To-Do List           | Add/view/remove tasks                | [todo.py](todo.py)     |
