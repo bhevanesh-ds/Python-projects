@@ -13,8 +13,8 @@ This repo is my collection of beginner projects, experiments, and everything I'm
 
 - 🧮 **Calculator**
   - Basic calculator using Python
-  - 👉 [Open Calculator](calculator/)
-)
+  - 👉 [Open calculator](calculator.py)
+
 
 
 ## 🛠️ Currently Learning
