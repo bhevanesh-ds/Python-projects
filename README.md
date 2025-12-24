@@ -8,12 +8,10 @@ Hey there! 👋
 I'm a 2nd semester student diving into Python after surviving first-sem C 😅.  
 This repo is my collection of beginner projects, experiments, and everything I'm learning.
 
+## Projects
 
-## 🚀 My Projects
-
-- 🧮 **Calculator**
-  - Basic calculator using Python
-  - 👉 [Open calculator](calculator.py)
+- Calculator  
+  👉 [Open Calculator](calculator/)
 
 
 
