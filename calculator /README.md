@@ -13,4 +13,4 @@ A beginner-friendly Python calculator program.
 2. Open terminal in this folder
 3. Run:
 ```bash
-python calculator.py
+python calculator.py 
