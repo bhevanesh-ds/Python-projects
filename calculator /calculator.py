@@ -10,7 +10,7 @@ while True:
 
     if choice == '5':
         print("Calculator closed.")
-        break
+        break 
 
     if choice in ['1', '2', '3', '4']:
         a = float(input("Enter first number: "))
