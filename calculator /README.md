@@ -1,12 +1,14 @@
-# Simple Calculator
+# Calculator Project (Python)
 
-This is a basic Python calculator program.
+## 📌 Description
+A simple calculator program written in Python.
 
-## Features
+## ⚙️ Features
 - Addition
 - Subtraction
 - Multiplication
 - Division
 
-## Run
+## ▶️ How to Run
+```bash
 python calculator.py
