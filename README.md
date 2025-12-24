@@ -8,11 +8,13 @@ Hey there! 👋
 I'm a 2nd semester student diving into Python after surviving first-sem C 😅.  
 This repo is my collection of beginner projects, experiments, and everything I'm learning.
 
-## 🚀 Projects (More coming soon!)
 
-| Project              | Description                          | File/Link              |
-|----------------------|--------------------------------------|------------------------|
-| Simple Calculator    | Basic operations (+ - × ÷)            | [calculator.py](calculator) |
+## 🚀 My Projects
+
+- 🧮 **Calculator**
+  - Basic calculator using Python
+  - 👉 [Open Calculator Project](calculator/)
+
 | Guess the Number     | Fun guessing game                    | [guess_game.py](guess_game.py) |
 | Rock Paper Scissors  | Play against computer                | [rps.py](rps.py)       |
 | To-Do List           | Add/view/remove tasks                | [todo.py](todo.py)     |
