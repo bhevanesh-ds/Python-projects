@@ -13,7 +13,7 @@ This repo is my collection of beginner projects, experiments, and everything I'm
 
 - 🧮 **Calculator**
   - Basic calculator using Python
-  - 👉 [Open Calculator Project](calculator/)
+  - 👉 [Open calculator Project](calculator/)
 
 | Guess the Number     | Fun guessing game                    | [guess_game.py](guess_game.py) |
 | Rock Paper Scissors  | Play against computer                | [rps.py](rps.py)       |
